@@ -26,7 +26,13 @@ Github link : (https://github.com/rachannzz)</p>
 location : Sri City, India <br>
 Github link : https://github.com/bhanuprakash16</p>
 
+
 <p>Name: shyam Baral <br>
 Location: Biratnagar <br>
 Github link: (https://github.com/shyambaral)</p>
+
+
+<p>Name: Dipesh Sharma <br>
+Location: Kathmandu, Nepal <br>
+Github link:  https://github.com/bdipesh3045</p>
 
