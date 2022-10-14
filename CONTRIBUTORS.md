@@ -36,3 +36,7 @@ Github link: (https://github.com/shyambaral)</p>
 Location: Kathmandu, Nepal <br>
 Github link:  https://github.com/bdipesh3045</p>
 
+<p>Name: Dipesh Shrestha <br>
+Location: Kathmandu, Nepal <br>
+Github link:  https://github.com/Zetahaxx</p>
+
